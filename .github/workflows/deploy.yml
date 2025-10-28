@@ -7,3 +7,4 @@ on:
       - 'src/**'
       - '.github/workflows/deploy.yml'
       - 'Dockerfile'
+      - 'readme.md'
