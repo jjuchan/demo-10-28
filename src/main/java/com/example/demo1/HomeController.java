@@ -10,7 +10,7 @@ public class HomeController {
     public String home() {
         return """
                 
-                <h1>Hello, jjuchan</h1>
+                <h1>Hello, jjuchan!!</h1>
                 
                 """;
     }
